@@ -26,3 +26,6 @@ Deberías ver la aplicación de prueba de React en funcionamiento.
 ## Personalización Adicional
 - Si necesitas personalizar la configuración de Vite, edita el archivo vite.config.js en el directorio del proyecto.
 ¡Ya estás listo para comenzar a desarrollar tu aplicación con React y Vite!
+
+## Repositorio de github
+https://github.com/DDouglas2077/GuiLabDPS
